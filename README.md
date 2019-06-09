@@ -17,4 +17,4 @@ Used to show "featured events" or pull in a certain amount of events to highligh
 
 **NOTE:** The custom taxonomy "region" must be setup separately to this plugin.
 
-<img src="screen.png" >
+<img src="screenshot.png" >
